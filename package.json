@@ -41,7 +41,7 @@
     "node-sass": "^4.9.0",
     "object-assign": "4.1.1",
     "oidc-client": "^1.6.1",
-    "papaparse": "^4.5.0",
+    "papaparse": "^5.2.0",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
     "promise": "8.0.1",
