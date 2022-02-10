@@ -38,7 +38,7 @@
     "history": "^4.7.2",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "object-assign": "4.1.1",
     "oidc-client": "^1.6.1",
     "papaparse": "^4.5.0",
